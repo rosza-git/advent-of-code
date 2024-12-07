@@ -71,8 +71,3 @@ for update in updates:
         fixed += 1
 
 print(f"Sum of the corrected middles is '{corrected_middles}' ('{fixed} fixed')")
-
-
-
-# 4959 too high
-# 4376 too low
